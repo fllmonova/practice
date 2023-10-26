@@ -1,3 +1,2 @@
-# practice
-Colored Markers
+# Colored Markers
 Project from freeCodeCamp
