@@ -1,2 +1,2 @@
-# Colored Markers
-Project from freeCodeCamp
+# Projects
+from freeCodeCamp
